@@ -10,7 +10,7 @@ body{
 }
 
 .svg{
-    background: url(../../../blob-scene-haikei.svg);
+    background: url(blob-scene-haikei.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
