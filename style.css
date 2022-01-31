@@ -33,9 +33,17 @@ body{
 .navbar{
     display: flex;
     list-style: none;
-    font-size: 0.7em;
+    font-size: .7em;
     margin: 0;
     padding: 10px;
+}
+
+.generator__shape {
+    width: 324px;
+    height: 324px;
+    background: #f09;
+    background-image: linear-gradient(45deg, #3023AE 0%, #f09 100%);
+    border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
 }
 
 li{
